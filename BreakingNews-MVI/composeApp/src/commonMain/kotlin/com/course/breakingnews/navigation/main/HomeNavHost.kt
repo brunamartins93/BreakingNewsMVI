@@ -5,7 +5,7 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.course.breakingnews.features.about.AboutScreen
+import com.course.breakingnews.features.about.screen.AboutScreen
 import com.course.breakingnews.features.details.screen.DetailsScreen
 import com.course.breakingnews.features.home.screen.HomeScreen
 import com.course.breakingnews.navigation.routes.HomeRoutes

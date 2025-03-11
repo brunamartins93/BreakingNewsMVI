@@ -23,7 +23,6 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.course.breakingnews.features.home.action.HomeAction
 import com.course.breakingnews.features.home.state.HomeState
 import com.course.breakingnews.features.home.viewmodel.HomeViewModel
-import com.course.breakingnews.navigation.routes.HomeRoutes
 import com.course.breakingnews.ui.card.BreakingNewsCard
 import com.course.breakingnews.ui.loading.Loading
 import com.course.breakingnews.ui.top.BreakingNewsTopBar
